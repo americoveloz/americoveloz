@@ -8,7 +8,7 @@ I am an Information Security and Infrastructure Specialist with over 14 years of
 
 Here are the cybersecurity labs I’ve completed so far. Each one simulates a real-world threat detection, threat intel, or incident response scenario. Every repo includes screenshots, detection queries, or step-by-step analysis to reflect the kind of work done in an Information Security Department.
 
-- 🧠 [Windows Active Directory Lab](https://github.com/americoveloz/pending)  
+- 🧠 [Windows Active Directory Lab](https://github.com/americoveloz/activedirectorydomain)
   Implementing Active Directory and promoting the server to a Domain Controller.
 
 ### Certifications
