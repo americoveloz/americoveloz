@@ -40,4 +40,4 @@ More labs coming soon.
 ### 📫 Let’s Connect
 - 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/americoveloz/)  
 - 📂 Explore all my repositories [here](https://github.com/americoveloz?tab=repositories)
-- All my contact info is on my [Resume](https://www.linkedin.com/in/americoveloz/)
+- All my contact info is on my [Resume](https://github.com/americoveloz/resume/blob/main/Americo%20Veloz%20Resume..pdf)
