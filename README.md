@@ -8,8 +8,8 @@ I am an Information Security and Infrastructure Specialist with over 14 years of
 
 Here are the cybersecurity labs I’ve completed so far. Each one simulates a real-world threat detection, threat intel, or incident response scenario. Every repo includes screenshots, detection queries, or step-by-step analysis to reflect the kind of work done in a Information Security Department.
 
-- 🧠 [Windows Event Log Analysis Lab](https://github.com/blackgirlinfosec/windows-event-log-analysis-lab)  
-  Investigated brute-force login attempts using Windows logs and Event Viewer.
+- 🧠 [Windows Active Directory Lab](https://github.com/americoveloz/pending)  
+  Implementing Active Directory and promoting the server to a Domain Controller.
 
 
 More labs coming soon.
