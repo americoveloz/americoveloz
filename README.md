@@ -6,11 +6,19 @@ I am an Information Security and Infrastructure Specialist with over 14 years of
 
 ### 🔬 Hands-On Labs
 
-Here are the cybersecurity labs I’ve completed so far. Each one simulates a real-world threat detection, threat intel, or incident response scenario. Every repo includes screenshots, detection queries, or step-by-step analysis to reflect the kind of work done in a Information Security Department.
+Here are the cybersecurity labs I’ve completed so far. Each one simulates a real-world threat detection, threat intel, or incident response scenario. Every repo includes screenshots, detection queries, or step-by-step analysis to reflect the kind of work done in an Information Security Department.
 
 - 🧠 [Windows Active Directory Lab](https://github.com/americoveloz/pending)  
   Implementing Active Directory and promoting the server to a Domain Controller.
 
+### Certifications
+- [Splunk Core Certified Power User](https://github.com/americoveloz/certifications/blob/main/splunk%20core%20power%20user%20certificate.pdf)
+- [CompTIA Cybersecurity Analyst (CySA+)](https://github.com/americoveloz/certifications/blob/main/CompTIA%20CySA%2B%20certificate.pdf)
+- [Fortinet NSE 4 – Network Security Professional](https://github.com/americoveloz/certifications/blob/main/NSE%204%20Certification.pdf)
+- [Azure Fundamentals (AZ-900)](https://github.com/americoveloz/certifications/blob/main/Azure%20Fundamentals%20Certificate.pdf)
+- [Ethical Hacking with Kali Linux](https://github.com/americoveloz/certifications/blob/main/Ethical%20Hacking%20with%20Kali%20Linux%20Course%20Certificate.pdf)
+- [Cisco Certified Network Professional (CCNP Routing)](https://github.com/americoveloz/certifications/blob/main/CCNP%20Routing%20Course%20Certificate.pdf)
+- [Cisco Certified Network Professional (CCNP Switching)](https://github.com/americoveloz/certifications/blob/main/CCNP%20Switching%20Course%20Certificate.pdf)
 
 More labs coming soon.
 ---
@@ -40,4 +48,4 @@ More labs coming soon.
 ### 📫 Let’s Connect
 - 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/americoveloz/)  
 - 📂 Explore all my repositories [here](https://github.com/americoveloz?tab=repositories)
-- All my contact info is on my [Resume](https://github.com/americoveloz/resume/blob/main/Americo%20Veloz%20Resume..pdf)
+- 📲 All my contact info is on my [Resume](https://github.com/americoveloz/resume/blob/main/Americo%20Veloz%20Resume..pdf)
