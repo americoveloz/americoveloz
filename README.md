@@ -20,6 +20,24 @@ Here are the cybersecurity labs I’ve completed so far. Each one simulates a re
 - [Cisco Certified Network Professional (CCNP Routing)](https://github.com/americoveloz/certifications/blob/main/CCNP%20Routing%20Course%20Certificate.pdf)
 - [Cisco Certified Network Professional (CCNP Switching)](https://github.com/americoveloz/certifications/blob/main/CCNP%20Switching%20Course%20Certificate.pdf)
 
+### Professional Development Roadmap
+
+#### Continuous Learning Calendar
+| **Date** | **Event Type** | **Topic** | Goal |
+| --- | --- | --- | --- |
+| 4/1/2026 | Splunk Webinar | Leveraging the Latest in Splunk AI for Security | Integrate AI with Splunk for Security |
+| 4/15/2026 | Splunk Webinar | Splunk4Rookies | Expand my knowledge on Splunk |
+| 4/16/2026 | Splunk Webinar | Enterprise Security 8 Hands On | Hands-on Splunk ES App Labs |
+| 4/29/2026 | Splunk Webinar | SPL Best Practices | Expand my knowledge on Splunk |
+| Q2 2026 | Try Hack Me SOC L1 Course | SOC Labs to work with logs, triage and prioritize alerts. | Hands-on SOC simulations. |
+
+#### Recent Past Events
+| **Date** | **Event Type** | **Topic** | **Key Takeaway** |
+| --- | --- | --- | --- |
+| 3/31/2026 | Splunk Webinar | Securing OT Environments & Modernizing Operations with Splunk | Leveraging the Splunk OT Security Add-on for IoT and Industrial Monitoring to Maintain NERC CIP Compliance |
+| March 2026 | Google AI Course | Use of AI tools for professional and personal tasks | Created AI prompts using the TCREI framework for better outputs. |
+| Q1 2026 | Splunk Course with Labs | SPL search, dashboard and reporting for Security Monitoring | Hands-on labs & got certified as Splunk Core Power User |
+
 More labs coming soon.
 ---
   
