@@ -1,4 +1,4 @@
-# Hi, I’m Americo Veloz👋🏿
+# Hi, I’m Americo Veloz👋👨‍💻
 
 I am an Information Security and Infrastructure Specialist with over 14 years of experience in network infrastructure, threat mitigation, and IT governance. Specialist in implementing and managing complex security environments using Cisco, Fortinet, VMware and SPLUNK. Proven track record in SOC-related tasks, including real-time log analysis, malware eradication, and network monitoring. Passionate about continuous learning and mentoring the next generation of cybersecurity professionals.
 
