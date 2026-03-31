@@ -19,6 +19,7 @@ Here are the cybersecurity labs I’ve completed so far. Each one simulates a re
 - [Ethical Hacking with Kali Linux](https://github.com/americoveloz/certifications/blob/main/Ethical%20Hacking%20with%20Kali%20Linux%20Course%20Certificate.pdf)
 - [Cisco Certified Network Professional (CCNP Routing)](https://github.com/americoveloz/certifications/blob/main/CCNP%20Routing%20Course%20Certificate.pdf)
 - [Cisco Certified Network Professional (CCNP Switching)](https://github.com/americoveloz/certifications/blob/main/CCNP%20Switching%20Course%20Certificate.pdf)
+- See all my other certifications on my [LinkedIn profile](https://www.linkedin.com/in/americoveloz/) 
 
 ### Professional Development Roadmap
 
