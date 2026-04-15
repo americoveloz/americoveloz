@@ -8,6 +8,7 @@ I am an Information Security and Infrastructure Specialist with over 14 years of
 
 From most recent to oldest, here are the cybersecurity labs I’ve completed so far. Each one simulates a real-world threat detection, threat intel, or incident response scenario. Every repo includes screenshots, detection queries, or step-by-step analysis to reflect the kind of work done in an Information Security Department.
 
+- Vulnerability scanning with NESSUS (coming soon)
 - [Workstation Hardening using GPOs](https://github.com/americoveloz/workstation_hardening_gpo)
   Critical GPOs for ensuring business security using best practices controls.
 - [RBAC and IAM Implementation](https://github.com/americoveloz/rbac_iam_using_active_directory)
@@ -30,14 +31,15 @@ From most recent to oldest, here are the cybersecurity labs I’ve completed so 
 #### Continuous Learning Calendar
 | **Date** | **Event Type** | **Topic** | Goal |
 | --- | --- | --- | --- |
-| 4/15/2026 | Splunk Webinar | Splunk4Rookies | Expand my knowledge on Splunk |
 | 4/16/2026 | Splunk Webinar | Enterprise Security 8 Hands On | Hands-on Splunk ES App Labs |
+| 4/29/2026 | SANS Webinar | Indicators of Compromise | Expand knowledge on MITRE ATT&CK Framework and Cyber Kill Chain |
 | 4/29/2026 | Splunk Webinar | SPL Best Practices | Expand my knowledge on Splunk |
-| Q2 2026 | Try Hack Me SOC L1 Course | SOC Labs to work with logs, triage and prioritize alerts. | Hands-on SOC simulations. |
+| Q2 2026 | Try Hack Me SOC L1 Course | SOC Labs to work with logs, triage, and prioritize alerts. | Hands-on SOC simulations. |
 
 #### Recent Past Events
 | **Date** | **Event Type** | **Topic** | **Key Takeaway** |
 | --- | --- | --- | --- |
+| 4/15/2026 | Splunk Webinar | Splunk4Rookies | The webinar presented some common commands already seen in the Splunk Power User Certification courses |
 | 4/1/2026 | Splunk Webinar | Leveraging the Latest in Splunk AI for Security | Splunk is integrating AI agents to act as "co-pilots", helping in the process of analyzing the alerts and the initial triage |
 | 3/31/2026 | Splunk Webinar | Securing OT Environments & Modernizing Operations with Splunk | Leveraging the Splunk OT Security Add-on for IoT and Industrial Monitoring to Maintain NERC CIP Compliance |
 | March 2026 | Google AI Course | Use of AI tools for professional and personal tasks | Created AI prompts using the TCREI framework for better outputs. |
