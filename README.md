@@ -34,6 +34,7 @@ From most recent to oldest, here are the cybersecurity labs I’ve completed so 
 | 4/16/2026 | Splunk Webinar | Enterprise Security 8 Hands On | Hands-on Splunk ES App Labs |
 | 4/29/2026 | SANS Webinar | Indicators of Compromise | Expand knowledge on MITRE ATT&CK Framework and Cyber Kill Chain |
 | 4/29/2026 | Splunk Webinar | SPL Best Practices | Expand my knowledge on Splunk |
+| 5/7/2026 | SANS Webinar | Defend Against Ransomware Attacks| Review real-life ransomware attacks and ways to mitigate them |
 | Q2 2026 | Try Hack Me SOC L1 Course | SOC Labs to work with logs, triage, and prioritize alerts. | Hands-on SOC simulations. |
 
 #### Recent Past Events
