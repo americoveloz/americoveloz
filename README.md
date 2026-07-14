@@ -1,6 +1,6 @@
 # Hi, I’m Americo Veloz👋👨‍💻
 
-I am an Infrastructure and Information Security Specialist with over 14 years of experience in network infrastructure, threat mitigation, and IT governance. Specialist in implementing and managing complex network environments using Cisco, Fortinet, VMware and SPLUNK. Proven track record in SOC-related tasks, including real-time log analysis, malware eradication, and network monitoring. Passionate about continuous learning and mentoring the next generation of cybersecurity professionals.
+Infrastructure and Information Security Specialist with over 14 years of experience in network infrastructure, threat mitigation, and IT governance. Specialist in implementing and managing complex network environments using Cisco, Fortinet, VMware, and PRTG. Passionate about engineering fault-tolerant, high-availability environments and delivering comprehensive technical documentation to streamline infrastructure management.
 
 
 
@@ -32,15 +32,13 @@ From most recent to oldest, here are the cybersecurity labs I’ve completed so 
 #### Continuous Learning Calendar
 | **Date** | **Event Type** | **Topic** | Goal |
 | --- | --- | --- | --- |
-| 4/29/2026 | SANS Webinar | Indicators of Compromise | Expand knowledge on MITRE ATT&CK Framework and Cyber Kill Chain |
-| 4/29/2026 | Splunk Webinar | SPL Best Practices | Expand my knowledge on Splunk |
-| 5/1/2026 | SANS Webinar | CISA Incident Response Playbook | Apply the Incident Response Playbook on malicious activities in the Enterprise Networks |
-| 5/7/2026 | SANS Webinar | Defend Against Ransomware Attacks | Review real-life ransomware attacks and ways to mitigate them |
-| Q2 2026 | Try Hack Me SOC L1 Course | SOC Labs to work with logs, triage, and prioritize alerts. | Hands-on SOC simulations. |
+| July 2026 | SC-300 Course | Microsoft Identity and Access Administrator Certification Course | Preparing for the SC-300 Certification |
 
 #### Recent Past Events
 | **Date** | **Event Type** | **Topic** | **Key Takeaway** |
 | --- | --- | --- | --- |
+| 4/29/2026 | Splunk Webinar | SPL Best Practices | Learned special commands like TERM and reviewed MACROS and tstats that make queries more efficient and fast |
+| 4/29/2026 | SANS Webinar | Indicators of Compromise | Expanded knowledge on MITRE ATT&CK Framework and Cyber Kill Chain |
 | 4/16/2026 | Splunk Webinar | Enterprise Security 8 Hands On | Hands-on Splunk Security and SOAR Labs |
 | 4/15/2026 | Splunk Webinar | Splunk4Rookies | The webinar presented some common commands already seen in the Splunk Power User Certification courses |
 | 4/1/2026 | Splunk Webinar | Leveraging the Latest in Splunk AI for Security | Splunk is integrating AI agents to act as "co-pilots", helping in the process of analyzing the alerts and the initial triage |
