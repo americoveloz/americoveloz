@@ -8,10 +8,14 @@ Infrastructure and Information Security Specialist with over 14 years of experie
 
 From most recent to oldest, here are the cybersecurity labs I’ve completed so far. Each one simulates a real-world threat detection, threat intel, or incident response scenario. Every repo includes screenshots, detection queries, or step-by-step analysis to reflect the kind of work done in an Information Security Department.
 
+- [SCCM Implementation](https://github.com/americoveloz/sccm_implementation)
+  SCCM installation on Windows Server
+- [Knowledge Base (in progress)](https://github.com/americoveloz/knowledge_base/tree/main)
+  Solutions to incidents and events. PowerShell commands for implementation and troubleshooting.
 - [Vulnerability scanning with NESSUS](https://github.com/americoveloz/vunerability_scan_nessus)
   Securing enterprise infrastructure by discovering, prioritizing, and remediating critical vulnerabilities.
 - [Workstation Hardening using GPOs](https://github.com/americoveloz/workstation_hardening_gpo)
-  Critical GPOs for ensuring business security using best practices controls.
+  Critical GPOs for ensuring business security using best-practice controls.
 - [RBAC and IAM Implementation](https://github.com/americoveloz/rbac_iam_using_active_directory)
   RBAC and PoLP-driven security implementation using Active Directory to enforce granular access controls and system hardening.
 - [Windows Active Directory Lab](https://github.com/americoveloz/activedirectorydomain)
