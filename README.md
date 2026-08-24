@@ -8,6 +8,8 @@ Infrastructure and Information Security Specialist with over 14 years of experie
 
 From most recent to oldest, here are the cybersecurity labs I’ve completed so far. Each one simulates a real-world threat detection, threat intel, or incident response scenario. Every repo includes screenshots, detection queries, or step-by-step analysis to reflect the kind of work done in an Information Security Department.
 
+- [Web Vulnerability Scanner](https://github.com/americoveloz/vulnerability_scanner)
+  Python script to analyze a list of domains and get their vulnerabilities. v1 detects whether a domain lacks SPF and DMARC configurations in its DNS.
 - [SCCM Implementation](https://github.com/americoveloz/sccm_implementation)
   SCCM installation on Windows Server
 - [Knowledge Base (in progress)](https://github.com/americoveloz/knowledge_base/tree/main)
