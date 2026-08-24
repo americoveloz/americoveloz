@@ -64,8 +64,7 @@ More labs coming soon.
 - Provisioning hybrid lab environments across Microsoft Azure and Hyper-V
 - Exploring task automation and workflow playbooks using Microsoft Sentinel
 - Developing Infrastructure as Code (IaC) and configuration management skills with Ansible and Terraform
-
-Documenting automated deployment scripts and lab findings in GitHub
+- Documenting automated deployment scripts and lab findings in GitHub
 
 
 ### 📫 Let’s Connect
