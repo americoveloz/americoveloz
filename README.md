@@ -4,11 +4,11 @@ Infrastructure and Information Security Specialist with over 14 years of experie
 
 
 
-### 🔬 Hands-On Labs
+### 🔬 Hands-On Lab Portfolio
 
-From most recent to oldest, here are the cybersecurity labs I’ve completed so far. Each one simulates a real-world threat detection, threat intel, or incident response scenario. Every repo includes screenshots, detection queries, or step-by-step analysis to reflect the kind of work done in an Information Security Department.
+Here are the practical labs I’ve completed, ordered from most recent to oldest. Each project simulates real-world server administration, system performance optimization, incident response, or network infrastructure management. Every repository includes step-by-step configuration guides, automation scripts, logs, and system monitoring metrics. I'm building this portfolio to showcase some of the experience I have working with server, network, and cybersecurity Systems.
 
-- [Web Vulnerability Scanner](https://github.com/americoveloz/vulnerability_scanner)
+- [Web Vulnerability Scanner (in progress)](https://github.com/americoveloz/vulnerability_scanner)
   Python script to analyze a list of domains and get their vulnerabilities. v1 detects whether a domain lacks SPF and DMARC configurations in its DNS.
 - [SCCM Implementation](https://github.com/americoveloz/sccm_implementation)
   SCCM installation on Windows Server
@@ -38,7 +38,8 @@ From most recent to oldest, here are the cybersecurity labs I’ve completed so 
 #### Continuous Learning Calendar
 | **Date** | **Event Type** | **Topic** | Goal |
 | --- | --- | --- | --- |
-| July 2026 | SC-300 Course | Microsoft Identity and Access Administrator Certification Course | Preparing for the SC-300 Certification |
+| Q3 2026 | SC-300 Course | Microsoft Identity and Access Administrator Certification Course | Preparing for the SC-300 Certification |
+| Q4 2026 | MS-102 Course | Microsoft 365 Administrator Certification Course | Get the MS-102 Microsoft 365 Administrator Certification |
 
 #### Recent Past Events
 | **Date** | **Event Type** | **Topic** | **Key Takeaway** |
@@ -55,26 +56,16 @@ From most recent to oldest, here are the cybersecurity labs I’ve completed so 
 More labs coming soon.
 ---
   
-🧠 Skills I’m Developing as a Cybersecurity Analyst
-
-**🔍 Threat Detection & Response**
-- Investigating incidents in SIEM platforms (Microsoft Sentinel)
-- Simulating alert triage and suspicious login behavior
-
-**📊 Log & Endpoint Analysis**
-- Parsing and interpreting logs for signs of compromise
-- PowerShell command tracing for endpoint activity
-- Working toward correlating logs across multiple sources
-
-**🔐 Core Security Foundations**
-- Networking & security fundamentals (TCP/IP, protocols, ports)
-- MITRE ATT&CK framework and threat mapping
-- Learning to identify attack patterns and lateral movement
+🧠 Skills I’m Developing
 
 **⚙️ Tools & Automation (In Progress)**
-- Building labs in Microsoft Azure/VirtualBox
-- Exploring automation using Sentinel playbooks & PowerShell
-- Documenting findings in GitHub for portfolio growth
+- Automating repetitive administrative tasks and log checks using PowerShell and Bash
+- Managing Windows patching and IT asset management using SCCM / MECM
+- Provisioning hybrid lab environments across Microsoft Azure and Hyper-V
+- Exploring task automation and workflow playbooks using Microsoft Sentinel
+- Developing Infrastructure as Code (IaC) and configuration management skills with Ansible and Terraform
+
+Documenting automated deployment scripts and lab findings in GitHub
 
 
 ### 📫 Let’s Connect
