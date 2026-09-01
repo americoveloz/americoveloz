@@ -9,7 +9,7 @@ Infrastructure and Information Security Specialist with over 14 years of experie
 Here are the practical labs I’ve completed, ordered from most recent to oldest. Each project simulates real-world server administration, system performance optimization, incident response, or network infrastructure management. Every repository includes step-by-step configuration guides, automation scripts, logs, and system monitoring metrics. I'm building this portfolio to showcase some of the experience I have working with server, network, and cybersecurity Systems.
 
 - [Web Vulnerability Scanner (in progress)](https://github.com/americoveloz/vulnerability_scanner)
-  Python script to analyze a list of domains and get their vulnerabilities. v1 detects whether a domain lacks SPF and DMARC configurations in its DNS.
+  Python script to analyze a list of domains and get their vulnerabilities. Goals: Innovate, expand technical skills, support SMB.
 - [SCCM Implementation](https://github.com/americoveloz/sccm_implementation)
   SCCM installation on Windows Server
 - [Knowledge Base (in progress)](https://github.com/americoveloz/knowledge_base/tree/main)
